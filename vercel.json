@@ -1,6 +1,5 @@
 {
     "buildCommand": "npm run build",
     "outputDirectory": "build",
-    "framework": "create-react-app",
-    "nodeVersion": "20.x"
+    "framework": "create-react-app"
 }
